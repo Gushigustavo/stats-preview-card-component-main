@@ -97,6 +97,8 @@ main{
     background-color:hsla(277, 68%, 49%, 0.605);
     border-radius:0px 10px 10px 0px ;
 }
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
 @media (max-width:375px) {
     main{
         top: 30px;
@@ -139,5 +141,9 @@ main{
         text-transform: uppercase;
     
     }
+    .attribution{
+        display: none;
+    }
+    
     
 }
