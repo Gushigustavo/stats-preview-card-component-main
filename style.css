@@ -107,9 +107,9 @@ main{
      .container__box2{
         position: relative;
         width: 497px;
-        height: 278px;
-        background-image: url("images/image-header-desktop.jpg");
-        background-size: contain;
+        height: 228px;
+        background-image: url("images/image-header-mobile.jpg");
+        background-size: cover;
         background-repeat: no-repeat;
         border-radius: 10px 10px 0px 0px;
     }
